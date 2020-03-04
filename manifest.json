@@ -1,6 +1,6 @@
 {
-  "name": "weibot-ui",
-  "short_name": "weibot-ui",
+  "name": "WeiBlocked",
+  "short_name": "WeiBlocked",
   "start_url": "/",
   "display": "standalone",
   "icons": [{
