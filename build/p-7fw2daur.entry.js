@@ -1,0 +1,1 @@
+import{r}from"./p-b8715656.js";import{c as o,b as s,g as c}from"./p-344f5acf.js";const t=class{constructor(o){r(this,o)}create(r){return o("ion-picker",r)}dismiss(r,o,c){return s(document,r,o,"ion-picker",c)}async getTop(){return c(document,"ion-picker")}};export{t as ion_picker_controller};
