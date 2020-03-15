@@ -1,1 +1,0 @@
-const s={production:!1,limits:{maxItemsPerSubmission:1e3,maxSubmissionLengthInBytes:1e5,hashtagsPerPage:50,postsPerPage:20},endpoints:{socialServerUrl:"https://weibo.censorship.online/sharing",userSuggestionApi:" https://weibo.censorship.online/suggest"},appVersion:"0.3.0"};export{s as e};
